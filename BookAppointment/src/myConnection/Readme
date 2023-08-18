@@ -1,0 +1,6 @@
+Must have to connect with MySql Database.
+
+Create a package name Database in src folder.
+Create a class inside it having static variable url,database,root and password of your database.
+
+Then import it in SqlConnection class and use these static variables to connect with database.
