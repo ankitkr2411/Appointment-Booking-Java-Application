@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/email_lib/mailactivation/techsoftemail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/email_lib/mailactivation/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/email_lib/mailactivation/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/New folder (5)/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/New folder (5)/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AKR/Downloads/New folder (5)/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
